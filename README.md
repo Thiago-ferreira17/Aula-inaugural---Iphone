@@ -18,6 +18,9 @@ Linguagens utilizadas neste projeto:
  <br>
  <br>
  PREVIEW:
+ <br>
+ <br>
+ <img scr="https://raw.githubusercontent.com/Thiago-ferreira17/Site-teste-Iphone/006aed568303496f03a2f9c860858ca6653d1421/site%20iphone.png" alt= "site-preview"/>
   
   
   
